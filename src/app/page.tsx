@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import styles from './page.module.css';
-import Card from './components/Card/BookingCareItem';
+import Card from './components/BookingCareItem/BookingCareItem';
 import { Key } from 'react';
 import BookingCareContainer from './containers/BookingCareContainer/BookingCareContainer';
 

@@ -4,7 +4,7 @@ import React from 'react';
 import Image from 'next/image';
 
 function BookingCareItem({ ...props }: BookingCareProps) {
-  return <div className={styles.card_wrapper}></div>;
+  return <div className={styles.card_wrapper}>123</div>;
 }
 
 export default BookingCareItem;

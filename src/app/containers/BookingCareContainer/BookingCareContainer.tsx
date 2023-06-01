@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './style.module.css';
-import BookingCareItem from '@/app/components/Card/BookingCareItem';
+import BookingCareItem from '@/app/components/BookingCareItem/BookingCareItem';
 
 function BookingCareContainer() {
   return (
